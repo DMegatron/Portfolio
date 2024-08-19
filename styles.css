@@ -22,6 +22,7 @@ body {
     align-items: center;
     background-color: #1e1e2f;
     padding: 1rem 2rem;
+    overflow-x: auto; /* Enable horizontal scrolling */
 }
 
 .navbar .logo img {
@@ -33,6 +34,7 @@ body {
 .navbar ul {
     display: flex;
     list-style: none;
+    white-space: nowrap; /* Prevent list items from wrapping */
 }
 
 .navbar ul li {
@@ -62,6 +64,7 @@ body {
 .navbar .dark-mode-toggle:hover {
     color: #f39c12;
 }
+
 
 /* Section styles */
 .section {

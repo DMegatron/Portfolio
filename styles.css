@@ -22,7 +22,7 @@ body {
     align-items: center;
     background-color: #1e1e2f;
     padding: 1rem 2rem;
-    overflow-x: auto; /* Enable horizontal scrolling */
+    overflow-x: scroll; /* Enable horizontal scrolling */
 }
 
 .navbar .logo img {

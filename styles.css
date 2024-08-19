@@ -164,7 +164,7 @@ body {
 
 @media (max-width: 768px) {
     .home-section {
-        height: 40vh;
+        height: 60vh;
     }
 
     .home-section h1 {
@@ -192,7 +192,7 @@ body {
 
 @media (max-width: 576px) {
     .home-section {
-        height: 40vh;
+        height: 60vh;
     }
 
     .home-section h1 {
